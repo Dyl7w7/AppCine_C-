@@ -1,0 +1,30 @@
+﻿@model AppCine.Models.Calificacion
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalles de calificación</h1>
+
+<div>
+    <h4>Calificación</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Calificacion1)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Calificacion1)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IdpeliculaNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdpeliculaNavigation.Idpelicula)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a class="btn btn-warning" asp-action="Edit" asp-route-id="@Model?.Idcalificacion">Editar</a> |
+    <a class="btn btn-secondary" asp-action="Index">Regresar</a>
+</div>

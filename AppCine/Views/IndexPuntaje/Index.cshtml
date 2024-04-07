@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model List<AppCine.Models.Grafica>
+
+    <div class="">
+        <div class="">
+            <h1>Top mejores películas</h1>
+        </div>
+    </div>
+
+    <div>
+        <canvas id="myChart"></canvas>
+    </div>
+
+}
+   
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script>
+  
+        const ctx = document.getElementById('myChart');
+        var titulos = [
+            @foreach (var movie in Model)
+            {
+                @: '@movie.Pelicula',
+        
+            }
+            
+        ];
+        var puntajes = [
+            @foreach (var puntaje in Model)
+            {
+                @: @puntaje.CalificacionPromedio,
+        
+            },
+        ];
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: titulos,
+                datasets: [{
+                    label: 'Puntuación',
+                    data: puntajes,
+                    borderWidth: 1,
+                    backgroundColor: '#fcba03',
+                }]
+            },
+           
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    </script>

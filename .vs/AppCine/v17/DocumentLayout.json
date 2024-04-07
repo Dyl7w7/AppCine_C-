@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\views\\indexpuntaje\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\views\\indexpuntaje\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\controllers\\indexpuntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\controllers\\indexpuntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\models\\grafica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\models\\grafica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\controllers\\indexcine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\controllers\\indexcine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\views\\peliculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\views\\peliculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\views\\peliculas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\views\\peliculas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\models\\appcinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\models\\appcinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\controllers\\calificacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\controllers\\calificacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\models\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\models\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\migrations\\20231106001417_add-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\migrations\\20231106001417_add-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\migrations\\appcinedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\migrations\\appcinedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\views\\calificacions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\views\\calificacions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\views\\indexcine\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\views\\indexcine\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|d:\\sena\\programming\\c#\\appcine_2\\appcine\\appcine\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D14C5406-E3D5-4D5C-AFA3-EF8EAB480BEA}|AppCine\\AppCine.csproj|solutionrelative:appcine\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexPuntaje.cs",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Controllers\\IndexPuntaje.cs",
+              "RelativeDocumentMoniker": "AppCine\\Controllers\\IndexPuntaje.cs",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Controllers\\IndexPuntaje.cs*",
+              "RelativeToolTip": "AppCine\\Controllers\\IndexPuntaje.cs*",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:22:51.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexCine.cs",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Controllers\\IndexCine.cs",
+              "RelativeDocumentMoniker": "AppCine\\Controllers\\IndexCine.cs",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Controllers\\IndexCine.cs",
+              "RelativeToolTip": "AppCine\\Controllers\\IndexCine.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:22:51.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Views\\IndexPuntaje\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppCine\\Views\\IndexPuntaje\\Index.cshtml",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Views\\IndexPuntaje\\Index.cshtml",
+              "RelativeToolTip": "AppCine\\Views\\IndexPuntaje\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T19:22:51.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "AppCine\\Controllers\\PeliculasController.cs",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "AppCine\\Controllers\\PeliculasController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwEMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:22:51.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Views\\Peliculas\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppCine\\Views\\Peliculas\\Create.cshtml",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Views\\Peliculas\\Create.cshtml",
+              "RelativeToolTip": "AppCine\\Views\\Peliculas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T19:22:51.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppCineDBContext.cs",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Models\\AppCineDBContext.cs",
+              "RelativeDocumentMoniker": "AppCine\\Models\\AppCineDBContext.cs",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Models\\AppCineDBContext.cs",
+              "RelativeToolTip": "AppCine\\Models\\AppCineDBContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA0wC8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:22:51.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grafica.cs",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Models\\Grafica.cs",
+              "RelativeDocumentMoniker": "AppCine\\Models\\Grafica.cs",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Models\\Grafica.cs",
+              "RelativeToolTip": "AppCine\\Models\\Grafica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:22:51.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Views\\Peliculas\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppCine\\Views\\Peliculas\\Index.cshtml",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Views\\Peliculas\\Index.cshtml",
+              "RelativeToolTip": "AppCine\\Views\\Peliculas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T19:22:51.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalificacionsController.cs",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Controllers\\CalificacionsController.cs",
+              "RelativeDocumentMoniker": "AppCine\\Controllers\\CalificacionsController.cs",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Controllers\\CalificacionsController.cs",
+              "RelativeToolTip": "AppCine\\Controllers\\CalificacionsController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:22:51.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AppCine\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AppCine\\Models\\ErrorViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:22:51.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Models\\Pelicula.cs",
+              "RelativeDocumentMoniker": "AppCine\\Models\\Pelicula.cs",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Models\\Pelicula.cs",
+              "RelativeToolTip": "AppCine\\Models\\Pelicula.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:22:51.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20231106001417_add-migration.cs",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Migrations\\20231106001417_add-migration.cs",
+              "RelativeDocumentMoniker": "AppCine\\Migrations\\20231106001417_add-migration.cs",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Migrations\\20231106001417_add-migration.cs",
+              "RelativeToolTip": "AppCine\\Migrations\\20231106001417_add-migration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:22:51.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Calificacion.cs",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Models\\Calificacion.cs",
+              "RelativeDocumentMoniker": "AppCine\\Models\\Calificacion.cs",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Models\\Calificacion.cs",
+              "RelativeToolTip": "AppCine\\Models\\Calificacion.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:22:51.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppCineDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Migrations\\AppCineDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AppCine\\Migrations\\AppCineDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Migrations\\AppCineDBContextModelSnapshot.cs",
+              "RelativeToolTip": "AppCine\\Migrations\\AppCineDBContextModelSnapshot.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:22:51.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Views\\Calificacions\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppCine\\Views\\Calificacions\\Index.cshtml",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Views\\Calificacions\\Index.cshtml",
+              "RelativeToolTip": "AppCine\\Views\\Calificacions\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T19:22:51.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\appsettings.json",
+              "RelativeDocumentMoniker": "AppCine\\appsettings.json",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\appsettings.json",
+              "RelativeToolTip": "AppCine\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T19:22:51.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppCine\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppCine\\Views\\Shared\\_Layout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T19:22:51.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AppCine\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AppCine\\wwwroot\\css\\site.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-01T19:22:51.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Style.css",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\wwwroot\\css\\Style.css",
+              "RelativeDocumentMoniker": "AppCine\\wwwroot\\css\\Style.css",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\wwwroot\\css\\Style.css",
+              "RelativeToolTip": "AppCine\\wwwroot\\css\\Style.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-01T19:22:51.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Views\\IndexCine\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppCine\\Views\\IndexCine\\Index.cshtml",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Views\\IndexCine\\Index.cshtml",
+              "RelativeToolTip": "AppCine\\Views\\IndexCine\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T19:22:51.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AppCine\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\SENA\\Programming\\C#\\AppCine_2\\AppCine\\AppCine\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AppCine\\Views\\Shared\\_LoginPartial.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T19:22:51.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

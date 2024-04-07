@@ -1,0 +1,124 @@
+﻿@using X.PagedList;
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model IPagedList<AppCine.Models.Pelicula>
+    <style>
+        .star-default {
+            color: #fcff52;
+        }
+
+        .star-hover {
+            color: #f0d000;
+        }
+    </style>
+
+   
+
+    <div class="row">
+        <div class="col-6 text-primary">
+            <h1>Películas</h1>
+        </div>
+        <div class="col-6">
+            <form asp-action="Index" asp-controller="IndexCine">
+                <div class="d-flex">
+                    <input class="form-control" type="text" name="busca" placeholder="Buscar...">
+                    <input type="submit" value="Buscar" class="btn btn-dark">
+                </div>
+            </form>
+        </div>
+    </div>
+    
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 mb-5">
+                    <div class="card" style="width: 18rem;">
+                        <img src="@item.Poster" height="450" class="card-img-top" alt="...">
+                        <div class="card-body bg-dark text-light">
+                            <h5 class="card-title text-center">@item.Titulo</h5>
+                            <p class="card-text text-center">
+                                @if (@item.Sipnosis.Length > 300)
+                                {
+                                    @item.Sipnosis.Substring(0, 300)
+                                }
+                                else
+                                {
+                                    @item.Sipnosis
+                                }
+
+                            </p><hr>
+                            <p class="card-text">@item.Director</p>
+                            <p class="card-text">@item.Genero</p>
+
+                            <div class="d-flex justify-content-center">
+
+                                @for (var i = 1; i < 6; i++)
+                                {
+                                    <form asp-action="CalificarPelicula" method="post">
+
+                                        <input type="hidden" name="Idpelicula" value="@item.Idpelicula">
+
+                                        <input type="hidden" name="Calificacion1" value="@i">
+
+                                        <button type="submit" class="btn btn-link"><i class="fa-solid fa-star star-default"></i></button>
+                                    </form>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+    <!-- Agrega la paginación -->
+    @if (Model != null)
+    {
+        <div class="d-flex justify-content-center mb-5">
+            <nav aria-label="Page navigation bg-dark">
+                <ul class="pagination">
+                    @for (var i = 1; i <= Model.PageCount; i++)
+                    {
+                        <li class="page-item @(i == Model.PageNumber ? "active" : "")">
+                            <a class="page-link" href="?page=@i">@i</a>
+                        </li>
+                    }
+                </ul>
+            </nav>
+        </div>
+    }
+}
+<script>
+    // Obtén todos los botones de estrella
+    const starButtons = document.querySelectorAll('.fa-solid.fa-star.star-default');
+
+    // Agrega un evento 'mouseover' a cada botón
+    starButtons.forEach((button, index) => {
+        button.addEventListener('mouseover', () => {
+            // Cambia la clase CSS al color de hover
+            button.classList.remove('star-default');
+            button.classList.add('star-hover');
+
+            // Cambia el color de las estrellas anteriores
+            for (let i = 0; i < index; i++) {
+                starButtons[i].classList.remove('star-default');
+                starButtons[i].classList.add('star-hover');
+            }
+        });
+
+        // Agrega un evento 'mouseout' para restaurar el color inicial
+        button.addEventListener('mouseout', () => {
+            button.classList.remove('star-hover');
+            button.classList.add('star-default');
+
+            // Restaura el color de las estrellas anteriores
+            for (let i = 0; i < index; i++) {
+                starButtons[i].classList.remove('star-hover');
+                starButtons[i].classList.add('star-default');
+            }
+        });
+    });
+</script>
